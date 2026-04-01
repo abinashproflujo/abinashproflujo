@@ -104,11 +104,3 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=abinashproflujo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=abinashproflujo&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abinashproflujo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
